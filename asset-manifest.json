@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devtown_assingment/static/css/main.073c9b0a.css",
+    "main.js": "/devtown_assingment/static/js/main.32e4f847.js",
+    "static/js/787.855818da.chunk.js": "/devtown_assingment/static/js/787.855818da.chunk.js",
+    "index.html": "/devtown_assingment/index.html",
+    "main.073c9b0a.css.map": "/devtown_assingment/static/css/main.073c9b0a.css.map",
+    "main.32e4f847.js.map": "/devtown_assingment/static/js/main.32e4f847.js.map",
+    "787.855818da.chunk.js.map": "/devtown_assingment/static/js/787.855818da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.32e4f847.js"
+  ]
+}
